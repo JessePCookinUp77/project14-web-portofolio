@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+img.img-thumbnail {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+  object-fit: cover; /* Untuk memastikan gambar tetap proporsional */
+  overflow: hidden;
+}
+.navbar {
+  background: #57d3d3;
+}
+
+#projects {
+  background: #e2edff;
+}
+
+footer {
+  background: #57d3d3;
+}
+section {
+  padding-top: 5rem;
+}
